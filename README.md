@@ -15,8 +15,8 @@ This project visualizes the relationship between population density and McDonald
 - [Font Awesome](https://fontawesome.com/) for custom map markers.
 
 ## Data Sources
-- **County Data**: GeoJSON file containing population density information for each county.
-- **McDonald's Locations**: GeoJSON file with restaurant point data.
+- **County Data**: GeoJSON file containing population [Census.gov](https://census.gov/quickfacts/)
+- **McDonald's Locations**: [Google Maps](https://www.google.com/maps/?entry=wc).
 - [CartoDB Dark Matter](https://carto.com/) for the dark-themed base map tiles.
 
 ## Author
