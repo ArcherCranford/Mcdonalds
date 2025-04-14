@@ -1,7 +1,7 @@
 # Population Density vs McDonald's Locations: Guilford and Surrounding Counties
 
 ## Project Description
-This project visualizes the relationship between population density and McDonald's restaurant locations across Guilford and surrounding counties in North Carolina. Using an interactive map, the project enables users to explore trends and patterns at the county and city levels, providing valuable insights into restaurant distribution and population density.
+The point of this project is to track the relationship between population density and the number of mcdonald's built by a 9 selected counties in North Carolina. Most fast-food chains are built to satisfy a specfic amount of customers per sq. mile. McDonald's is a chain that tends to be frequently opened and has a low threshold for opening. According to google, a mcdonald's needs to have at least 10,000 people in a "service area" to open a franchise. This service area is a 3-5 mile radius or a population density of ~127 people per sq. mile. The scale in which I made the map (counties) throw off this a little. However, you can see from the map that areas like Guilford and Forsyth have a huge population density and have the most Mcdonalds. FOr a county like Caswell, with only one noteable town and a population density of 52.2, they only have one established Mcdonald's. 
 
 ## Major Features
 - **Interactive Map**: Visualize population density and McDonald's locations using intuitive and responsive mapping.
